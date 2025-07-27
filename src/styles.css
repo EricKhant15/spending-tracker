@@ -1,0 +1,11 @@
+.app {
+    font-family: sans-serif;
+    padding: 1rem;
+  }
+  nav button {
+    margin-right: 0.5rem;
+  }
+  input, select {
+    margin: 0.5rem;
+  }
+  
