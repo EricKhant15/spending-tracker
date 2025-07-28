@@ -3,8 +3,7 @@
 A simple web app to help users track their daily, weekly, and monthly expenses with a clear summary and pie chart analytics. Built with React and Chart.js.
 
 # Members
-Name : Khant Zaw Htet
-Name : Wint Yupa Tun
+Name : Khant Zaw Htet, Wint Yupa Tun
 
 ## 🔗 Live Demo
 
