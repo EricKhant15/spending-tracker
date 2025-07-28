@@ -137,7 +137,12 @@ function AnalyticsDashboard() {
         </select>
       </label>
       {filter === 'month' && (
-        <input type="month" value={month} onChange={e => setMonth(e.target.value)} />
+        <input
+        type="text"
+        placeholder="YYYY-MM"
+        value={selectedMonth}
+        onChange={handleMonthChange}
+      />      
       )}
       {filter === 'week' && (
         <input type="date" value={weekStart} onChange={e => setWeekStart(e.target.value)} />
