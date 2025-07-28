@@ -14,7 +14,7 @@ Name : Khant Zaw Htet, Wint Yupa Tun
 ### Journal Page
 ![Journal Screenshot](./screenshots/journal.png)
 
-### Analytics Page
+### Analytics Page & Pie chart
 ![Analytics Screenshot](./screenshots/analytics.png)
 
 ### Line chart 
